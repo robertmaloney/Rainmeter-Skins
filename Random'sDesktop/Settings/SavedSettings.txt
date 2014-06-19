@@ -1,0 +1,7 @@
+[Variables]
+ButtonColor=Black
+ButtonOffColor=White
+ButtonColorTemp=Black
+TimeColor=0,0,0,255
+TimeOffColor=203,203,203,255
+TimeColorTemp=0,0,0,255
